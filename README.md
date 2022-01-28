@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kkalkotwar
-- 👀 I’m interested in Data Science, Machine Learining and Artificial Intelligence
-- 🌱 I’m currently learning Data Analytics
+- 👋 Hi, I’m Kunal Kalkotwar
+- 👀 I’m a Data Science Enthusiast, persued Mechanincal Engineering
+- 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on LinkedIN, and GitHub
 - 📫 How to reach me, can reach me through LinkedIN and Facebook
 
