@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Kalkotwar
-- 👀 I’m a Data Science Enthusiast, persued Mechanincal Engineering by profession
-- 🌱 Data Scientist at TATA Technologies - Smart Manufacturing and Digital Twin (CoE)
+- 👀 I’m an AI/ML Computational Science Specilist, persued Mechanincal Engineering by profession
+- 🌱 AI/ML Engineer at Accenture
 - 💞️ I’m looking to collaborate on LinkedIN, and GitHub
 - 📫 How to reach me, can reach me through LinkedIN and Facebook
 
